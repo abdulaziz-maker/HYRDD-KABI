@@ -1,0 +1,14 @@
+{
+  "login": {
+    "lang": "العربية" , 
+    "welcome": "مرحبًا!",
+    "sign": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل البريد الالكتروني ",
+    "password": "كلمة المرور",
+    "passwordPlacholder" : "أدخل كلمة المرور" ,
+    "remember": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "button": "تسجيل الدخول"
+  }
+}

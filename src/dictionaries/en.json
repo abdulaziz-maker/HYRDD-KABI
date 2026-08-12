@@ -1,0 +1,14 @@
+{
+  "login": {
+    "lang": "English" , 
+    "welcome": "Hi!",
+    "sign": "Sign In",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter Email",
+    "password": "Password",
+    "passwordPlacholder" : "Enter Password" ,
+    "remember": "Remember me",
+    "forgotPassword": "Forgot Password?",
+    "button": "Sign In"
+  }
+}
