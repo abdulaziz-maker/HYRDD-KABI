@@ -99,7 +99,21 @@ export default function FoldersPage() {
                             </Button>
                         </Group>
                     </Flex>
-                 
+                  <SimpleGrid cols={4} spacing="md">
+                        <FolderCard name="www" />
+                        <FolderCard name="rdf" />
+                        <FolderCard name="fdsf" />
+                        <FolderCard name="noor" />
+                        <FolderCard name="شش" />
+                        <FolderCard name="ddd" />
+                        <FolderCard name="haz" />
+                        <FolderCard name="new oo" />
+                        <FolderCard name="graduates folder" />
+                        <FolderCard name="new ff" />
+                        <FolderCard name="new folder1121" />
+                        <FolderCard name="yazan mo" />
+                    </SimpleGrid>
+
                 </Box>
 
             </Flex>
