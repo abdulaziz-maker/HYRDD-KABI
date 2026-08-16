@@ -1,14 +1,20 @@
 {
   "login": {
-    "lang": "English" , 
+    "lang": "English",
     "welcome": "Hi!",
     "sign": "Sign In",
     "email": "Email Address",
     "emailPlaceholder": "Enter Email",
     "password": "Password",
-    "passwordPlacholder" : "Enter Password" ,
-    "remember": "Remember me",
+    "passwordPlaceholder": "Enter Password",
+    "remember": "Remember Me",
     "forgotPassword": "Forgot Password?",
-    "button": "Sign In"
+    "button": "Sign In",
+    "brand": "HYRDD",
+    "description": "If you don't have an account, you can sign up",
+    "backTitle": "Welcome back to",
+    "brandName": "RER",
+    "reFactor":  "Reset Multi-Factor code?",
+    "signUp" :" Sign Up "
   }
 }
